@@ -29,7 +29,7 @@ class KucingPersia(Kucing):
         return 100_000
 
     def biaya_perawatan_bulu(self):
-        return 60_000
+        return 60_000   
 
 class KucingKampung(Kucing):
     def __init__(self, nama, usia, berat_badan, nama_pemilik, warna_bulu, pola_bulu, sudah_steril):
@@ -72,3 +72,5 @@ class AnjingPenjaga(Anjing):
 
     def biaya_perawatan_bulu(self):
         return 120_000
+    
+sheep = KucingPersia("sheep", 3, 5, "Mariadi", "Blue", "Tabby", "Blue")
