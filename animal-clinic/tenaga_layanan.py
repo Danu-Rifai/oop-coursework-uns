@@ -4,12 +4,10 @@ class TenagaLayanan:
         self.nomor_pegawai = nomor_pegawai
 
 class DokterHewan(TenagaLayanan):
-    def __init__(self, nama, nomor_pegawai):
-        super().__init__(nama, nomor_pegawai)
+    pass
 
 class PerawatHewan(TenagaLayanan):
-    def __init__(self, nama, nomor_pegawai):
-        super().__init__(nama, nomor_pegawai)
+    pass
 
 class DokterUmum(DokterHewan):
     pass

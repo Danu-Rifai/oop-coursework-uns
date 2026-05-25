@@ -31,5 +31,3 @@ class Layanan:
             pass
         elif isinstance(hewan, AnjingPenjaga):
             pass
-
-print(type(KucingKampung))
