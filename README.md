@@ -29,7 +29,7 @@ Simulasi booking tiket dengan manajemen armada, rute penerbangan, penumpang, bag
 
 **Konsep:** Encapsulation · Composition · Single Responsibility
 
-[![Buka README](https://img.shields.io/badge/📖%20Buka%20README-Singapore%20Airlines-185FA5?style=for-the-badge)](./singapore-airlines-system/README.md)
+[![Buka README](https://img.shields.io/badge/📖%20Buka%20README-Singapore%20Airlines-185FA5?style=for-the-badge)](./singapore-airlines-system/SingaporeAirlines.md)
 
 </td>
 </tr>
