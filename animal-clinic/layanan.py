@@ -1,4 +1,4 @@
-from hewan import Hewan, sheep
+from hewan import Hewan
 
 class Layanan:
 

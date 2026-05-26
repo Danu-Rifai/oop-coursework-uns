@@ -72,5 +72,3 @@ class AnjingPenjaga(Anjing):
 
     def biaya_perawatan_bulu(self):
         return 120_000
-    
-sheep = KucingPersia("sheep", 3, 5, "Mariadi", "Blue", "Tabby", "Blue")
